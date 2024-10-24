@@ -1,0 +1,143 @@
+body{
+  background:#060c36;
+  color:#a2afde;
+}
+#title_font{
+  font-family: 'SisperdotzeRegular';
+   font-weight: normal;
+   font-style: normal;
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+  font-family: 'PierceRoman';
+   font-weight: normal;
+   font-style: normal;
+}
+
+p{
+  margin: 20px;
+  font-family: 'ArchitectsDaughterRegular';
+  font-weight: normal;
+  font-style: normal;
+}
+/* AKSHAT */
+#akshat_ki_details{
+  margin: 2rem;
+}
+#akshat_img{
+
+  background: #020c54;
+  padding: 20px;
+  width: 300px;
+  height: 300px;
+}
+#written_akshat{
+
+  background: #020c54;
+  padding: 50px;
+  text-align:center;
+  height: 150px;
+}
+.section1{
+  display: flex;
+  justify-content: space-between;
+}
+
+/* VINAMRA */
+#vinamra_ki_details{
+  margin: 2rem;
+}
+#vinamra_img{
+
+  background: #020c54;
+  padding: 20px;
+  width: 300px;
+  height: 300px;
+}
+#written_vinamra{
+
+  background: #020c54;
+  padding: 50px;
+  text-align:center;
+  height: 150px;
+}
+.section2{
+  display: flex;
+  justify-content:space-between;
+}
+
+
+/* VAIBHAV */
+#vaibhav_ki_details{
+  margin: 2rem;
+}
+#vaibhav_img{
+
+  background: #020c54;
+  padding: 20px;
+  width: 300px;
+  height: 300px;
+}
+#written_vaibhav{
+
+  background: #020c54;
+  padding: 50px;
+  text-align:center;
+  height: 150pxx;
+}
+.section3{
+  display:flex;
+  justify-content: space-between;
+}
+
+
+
+/* ADARSH */
+#adarsh_ki_details{
+  margin: 2rem;
+}
+#adarsh_img{
+
+  background: #020c54;
+  padding: 20px;
+  width: 300px;
+  height: 300px;
+}
+#written_adarsh{
+
+  background: #020c54;
+  padding: 50px;
+  text-align:center;
+  height: 150px;
+}
+.section4{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+/* CHATURYA */
+#chaturya_ki_details{
+  margin: 2rem;
+}
+#chaturya_img{
+
+  background: #020c54;
+  padding: 20px;
+  width: 300px;
+  height: 300px;
+}
+#written_chaturya{
+
+  background: #020c54;
+  padding: 50px;
+  text-align:center;
+  height: 150px;
+}
+.section5{
+  display: flex;
+  justify-content: space-between;
+}
